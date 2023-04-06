@@ -17,7 +17,7 @@ Robot thomas = new Robot();
 		//  Put the robot's pen down
 thomas.penDown();
 		//  SPEED. Make the robot go at maximum speed (100)
-thomas.setSpeed(1000);
+thomas.setSpeed(100);
 		//  COLOR. Set the pen to a color that you like for the shape
 thomas.setPenColor(0,0,128);
 		//  NUMBER OF SIDES. Make an int variable for the number of sides the shape will have.
